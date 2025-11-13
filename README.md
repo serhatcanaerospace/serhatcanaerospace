@@ -58,6 +58,6 @@ When I'm not designing or simulating space systems, I enjoy reading sci-fi novel
 ---
 
 ## 📈 GitHub Stats
-![Seroserosero123123's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seroserosero123123&show_icons=true&theme=radical)
+![Seroserosero123123's GitHub Stats](https://github-readme-stats.vercel.app/api?username=serhatcanaerospace&show_icons=true&theme=radical)
 
 ---
