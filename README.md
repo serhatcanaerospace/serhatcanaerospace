@@ -1,8 +1,14 @@
-# Hi, I'm Serhat Can Dalmış 👋
+<div align="center">
 
-**Aerospace Engineer** — Computational Fluid Dynamics (CFD) & Finite Element Analysis (FEA)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=2,12,20&text=Serhat%20Can%20Dalm%C4%B1%C5%9F&fontColor=fff&fontSize=42&fontAlignY=40&desc=Aerospace%20Engineer%20%7C%20CFD%20%26%20FEA&descAlignY=62&descSize=20" width="100%"/>
 
-![Email](https://img.shields.io/badge/Email-serhatcandalmis%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Serhat%20Can%20Dalm%C4%B1%C5%9F-0A66C2?style=flat&logo=linkedin&logoColor=white) ![Location](https://img.shields.io/badge/Location-Turkey-lightgrey?style=flat)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=1F6FEB&center=true&vCenter=true&width=650&lines=ASME+V%26V20+mesh+independence+(GCI);OpenFOAM+%7C+ANSYS+Fluent+%7C+LS-DYNA;reacting-flow+%C2%B7+CHT+%C2%B7+FSI+%C2%B7+turbulence+modeling;TEKNOFEST+%2B+IREC+rocketry+teams)](https://git.io/typing-svg)
+
+[![Email](https://img.shields.io/badge/-serhatcandalmis%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serhatcandalmis@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Serhat%20Can%20Dalm%C4%B1%C5%9F-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aerospaceserhatd/)
+[![Location](https://img.shields.io/badge/-Turkey-4B4B4B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+</div>
 
 Aerospace engineering graduate (2026) working on CFD and FEA: ASME V&V20 mesh-independence
 and verification (GCI), turbulence modeling, reacting-flow/combustion, conjugate heat transfer
@@ -10,7 +16,7 @@ and verification (GCI), turbulence modeling, reacting-flow/combustion, conjugate
 propulsion and aerodynamics. Two conference papers accepted at HAVÖS 2026; currently running a
 TÜBİTAK 2209-A research project on LS-DYNA impact modeling.
 
----
+<br>
 
 ## 💼 Experience
 
@@ -39,15 +45,31 @@ Systems, Satellite Communication Systems.
 
 ## 🛠️ Technical Skills
 
-| Area | Tools |
-|---|---|
-| **CFD** | OpenFOAM (`reactingFoam`, `simpleFoam`, `interFoam`), ANSYS Fluent, SALOME, GCI/ASME V&V20, RANS (k-ω SST), conjugate heat transfer, reacting flow |
-| **FEA** | ANSYS Mechanical, LS-DYNA (dynamic impact), static/modal/fatigue analysis, factor-of-safety |
-| **Propulsion & Thermo** | NASA CEA, RPA, Flownex SE (1D–0D), nozzle performance, combustion chamber design |
-| **System Modeling** | Simscape, Simulink, OpenRocket, digital twin |
-| **Programming** | Python (NumPy, Pandas, Matplotlib), MATLAB, C/C++, Bash, LaTeX |
-| **CAD/CAE** | SolidWorks, ANSYS SpaceClaim, ANSYS Discovery |
-| **Test & DAQ** | LabVIEW, DAQ/sensor integration, Arduino, RSSI/telemetry |
+<div align="center">
+
+**CFD & Simulation**
+<br>
+<img alt="OpenFOAM" src="https://img.shields.io/badge/OpenFOAM-1F6FEB?style=for-the-badge"/>
+<img alt="ANSYS Fluent" src="https://img.shields.io/badge/ANSYS%20Fluent-FFB71B?style=for-the-badge&logoColor=black"/>
+<img alt="ANSYS Mechanical" src="https://img.shields.io/badge/ANSYS%20Mechanical-FFB71B?style=for-the-badge&logoColor=black"/>
+<img alt="LS-DYNA" src="https://img.shields.io/badge/LS--DYNA-CC0000?style=for-the-badge"/>
+<img alt="SALOME" src="https://img.shields.io/badge/SALOME-2F6FED?style=for-the-badge"/>
+
+**Propulsion & Systems**
+<br>
+<img alt="NASA CEA" src="https://img.shields.io/badge/NASA%20CEA-0B3D91?style=for-the-badge"/>
+<img alt="RPA" src="https://img.shields.io/badge/RPA-333333?style=for-the-badge"/>
+<img alt="Flownex SE" src="https://img.shields.io/badge/Flownex%20SE-333333?style=for-the-badge"/>
+<img alt="OpenRocket" src="https://img.shields.io/badge/OpenRocket-333333?style=for-the-badge"/>
+<img alt="Simscape" src="https://img.shields.io/badge/Simscape-E16737?style=for-the-badge"/>
+<img alt="Simulink" src="https://img.shields.io/badge/Simulink-E16737?style=for-the-badge"/>
+
+**Programming, CAD & Test**
+<br>
+<img src="https://skillicons.dev/icons?i=python,matlab,cpp,bash,latex,git,solidworks,arduino"/>
+<img alt="LabVIEW" src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logoColor=black"/>
+
+</div>
 
 ## 🚀 Open-source CFD portfolio
 
@@ -100,8 +122,29 @@ All built with OpenFOAM, validated where literature/benchmark data exists.
 - **TEKNOFEST Satellite-on-the-Move Terminal**, Team Lead — *Kapsül Atlas* (ongoing):
   laser-based target tracking, two-axis stabilization, Stewart-platform kinematics.
 
----
+<br>
 
-📬 **Contact:** [serhatcandalmis@gmail.com](mailto:serhatcandalmis@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aerospaceserhatd/)
+## 📊 Metrics
 
-![Serhat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=serhatcanaerospace&show_icons=true&theme=radical)
+<div align="center">
+<img src="./metrics.svg" alt="GitHub metrics" width="100%"/>
+</div>
+
+## 🐍 Contribution snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serhatcanaerospace/serhatcanaerospace/output/dist/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/serhatcanaerospace/serhatcanaerospace/output/dist/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+<br>
+
+<div align="center">
+
+📬 **serhatcandalmis@gmail.com** · [LinkedIn](https://www.linkedin.com/in/aerospaceserhatd/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=2,12,20&section=footer" width="100%"/>
+
+</div>
