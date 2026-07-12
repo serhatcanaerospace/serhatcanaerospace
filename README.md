@@ -30,18 +30,24 @@ I'm currently diving deep into the fascinating world of **orbital mechanics**, *
 ---
 
 ## 🛰️ Projects & Contributions
-### 1. **Satellite Orbit Simulation and Analysis Tool**  
-A MATLAB-based tool to process TLE data, visualize satellite orbits in 3D, and analyze perturbation effects and collision risks.  
-- **Key Features:**  
-  - TLE data integration  
-  - Perturbation effects (J2, atmospheric drag, solar radiation pressure)  
-  - Multi-satellite simulation  
+### 1. **Satellite Orbit Simulation and Analysis Tool**
+A MATLAB-based tool to process TLE data, visualize satellite orbits in 3D, and analyze perturbation effects and collision risks.
+- **Key Features:**
+  - TLE data integration
+  - Perturbation effects (J2, atmospheric drag, solar radiation pressure)
+  - Multi-satellite simulation
 
-📂 **Repository:** [Satellite Orbit Simulation](https://github.com/seroserosero123123/satellite-orbit-simulation)
+📂 **Repository:** [Satellite Orbit Simulation](https://github.com/serhatcanaerospace/satellite-orbit-simulation)
 
-### 2. **[Your Other Project Title]**  
-A brief description of another significant project you've worked on.  
-📂 **Repository:** [Project Link](https://github.com/seroserosero123123/your-project)
+### 2. **Rocket Simulation Project (via RocketPy)**
+Simulates rocket flight performance using real Cesaroni motor data — thrust-time curves, power-on/off drag analysis, and Google Earth trajectory visualization. Also includes a standalone liquid/solid rocket engine design tool (Tkinter GUI) for thrust, mass-flow, and exit-velocity calculations across common propellant pairs.
+
+📂 **Repository:** [Rocket Simulation Project](https://github.com/serhatcanaerospace/Rocket-Simulation-Project-via-RocketPy)
+
+### 3. **Reaction Wheel Bike**
+A self-balancing bicycle stabilized by a reaction wheel, built on an Arduino/embedded control stack — remote control, live tuning, and balance-control firmware.
+
+📂 **Repository:** [Reaction Wheel Bike](https://github.com/serhatcanaerospace/Reaction-Wheel-Bike)
 
 ---
 
@@ -58,6 +64,6 @@ When I'm not designing or simulating space systems, I enjoy reading sci-fi novel
 ---
 
 ## 📈 GitHub Stats
-![Seroserosero123123's GitHub Stats](https://github-readme-stats.vercel.app/api?username=serhatcanaerospace&show_icons=true&theme=radical)
+![Serhat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=serhatcanaerospace&show_icons=true&theme=radical)
 
 ---
