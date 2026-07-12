@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=2,12,20&text=Serhat%20Can%20Dalm%C4%B1%C5%9F&fontColor=fff&fontSize=42&fontAlignY=40&desc=Aerospace%20Engineer%20%7C%20CFD%20%26%20FEA&descAlignY=62&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=2,12,20&text=Serhat%20Can%20Dalm%C4%B1%C5%9F&fontColor=fff&fontSize=42&fontAlignY=40&desc=Aerospace%20Engineer%20%7C%20CFD%20and%20FEA&descAlignY=62&descSize=20" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=1F6FEB&center=true&vCenter=true&width=650&lines=ASME+V%26V20+mesh+independence+(GCI);OpenFOAM+%7C+ANSYS+Fluent+%7C+LS-DYNA;reacting-flow+%C2%B7+CHT+%C2%B7+FSI+%C2%B7+turbulence+modeling;TEKNOFEST+%2B+IREC+rocketry+teams)](https://git.io/typing-svg)
 
