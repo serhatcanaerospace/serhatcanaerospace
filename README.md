@@ -44,11 +44,6 @@ Simulates rocket flight performance using real Cesaroni motor data — thrust-ti
 
 📂 **Repository:** [Rocket Simulation Project](https://github.com/serhatcanaerospace/Rocket-Simulation-Project-via-RocketPy)
 
-### 3. **Reaction Wheel Bike**
-A self-balancing bicycle stabilized by a reaction wheel, built on an Arduino/embedded control stack — remote control, live tuning, and balance-control firmware.
-
-📂 **Repository:** [Reaction Wheel Bike](https://github.com/serhatcanaerospace/Reaction-Wheel-Bike)
-
 ---
 
 ## 🏆 Achievements
