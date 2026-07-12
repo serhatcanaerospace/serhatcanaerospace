@@ -102,6 +102,6 @@ All built with OpenFOAM, validated where literature/benchmark data exists.
 
 ---
 
-📬 **Contact:** [serhatcandalmis@gmail.com](mailto:serhatcandalmis@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aerospace-eng-serhatdalmis/)
+📬 **Contact:** [serhatcandalmis@gmail.com](mailto:serhatcandalmis@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aerospaceserhatd/)
 
 ![Serhat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=serhatcanaerospace&show_icons=true&theme=radical)
