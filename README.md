@@ -114,7 +114,7 @@ All built with OpenFOAM, validated where literature/benchmark data exists.
 - **TEKNOFEST B3 Liquid Rocket Engine**, Propulsion Team — *MagneThrust* (2024–25): injector
   concept design, CFD-assisted atomization/mixing analysis.
 - **TEKNOFEST B3 Liquid Rocket Engine**, Propulsion Team — *PALTİ2DE* (ongoing): subsystem
-  detail design, CFD/FEA, component acceptance testing — **1st place, Turkey**.
+  detail design, CFD/FEA, component acceptance testing.
 - **TEKNOFEST High-Altitude Rocket**, Aerodynamics Team — *KAPSÜL BOZDOĞAN* (ongoing): CFD-FSI
   analysis, flight simulation, aerodynamic stability.
 - **IREC**, Aerodynamics Team — *KAPSÜL BOZDOĞAN* (ongoing): airframe CFD, flight-profile
